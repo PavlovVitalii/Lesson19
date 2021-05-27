@@ -1,5 +1,9 @@
 GoogleWebServise.java
  GoogleWebServise
+TinyUrlResponse.java
+ TinyUrlResponse
+TrinyServise.java
+ TrinyServise
 GitHubServise.java
  GitHubServise
 Main.java
